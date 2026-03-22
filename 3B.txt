@@ -1,0 +1,28 @@
+{@S1=Yǒnglín}{@S1s= }
+{@S2=Beta}{@S2s= }
+{@S3=Martin}{@S3s= }
+{@S4=Cody}{@S4s= }
+{@S5=Bugi}{@S5s= }
+{@S6=Zǐyì}{@S6s= }
+{@S7=Ray}{@S7s= }
+{@S8=Yuè}{@S8s= }
+{@S9=Sunny}{@S9s= }
+{@S10=Kevin}{@S10s= }
+{@S11=Danny}{@S11s= }
+{@S12=Nathan}{@S12s= }
+{@S13=Daniel}{@S13s= }
+{@S14=Alex}{@S14s= }
+{@S15=Raven}{@S15s=s}
+{@S16=Angel}{@S16s=s}
+{@S17=Bella}{@S17s=s}
+{@S18=Tinna}{@S18s=s}
+{@S19=Charlotte}{@S19s=s}
+{@S21=Iori}{@S21s=s}
+{@S22=Lynn}{@S22s=s}
+{@S23=Nina}{@S23s=s}
+{@S24=Una}{@S24s=s}
+{@S25=Andrea}{@S25s=s}
+{@S26=Ariel}{@S26s=s}
+{@S27=Cara}{@S27s=s}
+{@S28=Elsa}{@S28s=s}
+{@S29=Phoebe}{@S29s=s}

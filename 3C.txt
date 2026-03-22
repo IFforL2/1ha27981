@@ -1,0 +1,28 @@
+{@S1=Jerry}{@S1s= }
+{@S2=Darren}{@S2s= }
+{@S3=Ben}{@S3s= }
+{@S4=Aaron}{@S4s= }
+{@S5=Ryan}{@S5s= }
+{@S6=Ken}{@S6s= }
+{@S7=Martin}{@S7s= }
+{@S8=Jasper}{@S8s= }
+{@S9=Harry}{@S9s= }
+{@S10=Yang}{@S10s= }
+{@S11=Allan}{@S11s= }
+{@S12=Eddie}{@S12s= }
+{@S13=Alan Xu}{@S13s= }
+{@S14=Alan Wang}{@S14s= }
+{@S15=Kai}{@S15s= }
+{@S16=Sunny}{@S16s=s}
+{@S17=Emma}{@S17s=s}
+{@S18=Ruby}{@S18s=s}
+{@S19=Luna}{@S19s=s}
+{@S20=Lisa}{@S20s=s}
+{@S21=Dora}{@S21s=s}
+{@S22=Lucy}{@S22s=s}
+{@S23=Pearl}{@S23s=s}
+{@S24=Dabby}{@S24s=s}
+{@S25=Elsa}{@S25s=s}
+{@S26=Bella}{@S26s=s}
+{@S27=Cindy}{@S27s=s}
+{@S28=Ariel}{@S28s=s}

@@ -1,0 +1,27 @@
+{@S1=Jeremy}{@S1s= }
+{@S2=Joe}{@S2s= }
+{@S3=Shane}{@S3s= }
+{@S4=Rain}{@S4s= }
+{@S5=Chris}{@S5s= }
+{@S6=Joshua}{@S6s= }
+{@S7=Enray}{@S7s= }
+{@S8=Chenyi}{@S8s= }
+{@S9=Auster}{@S9s= }
+{@S10=Andy}{@S10s= }
+{@S11=Eric}{@S11s= }
+{@S12=Yoyo}{@S12s= }
+{@S13=Oscar}{@S13s= }
+{@S14=Alvin}{@S14s= }
+{@S15=Ray}{@S15s= }
+{@S16=Dora}{@S16s=s}
+{@S17=Hedy}{@S17s=s}
+{@S18=Lucy}{@S18s=s}
+{@S19=Jenna}{@S19s=s}
+{@S20=Eva}{@S20s=s}
+{@S21=Peggy}{@S21s=s}
+{@S22=Kiki}{@S22s=s}
+{@S23=Hochi}{@S23s=s}
+{@S24=Sunny}{@S24s=s}
+{@S25=Emma}{@S25s=s}
+{@S26=Jessica}{@S26s=s}
+{@S27=Jessie}{@S27s=s}

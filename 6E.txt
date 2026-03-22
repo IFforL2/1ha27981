@@ -1,0 +1,28 @@
+{@S1=Max}{@S1s= }
+{@S2=Evan}{@S2s= }
+{@S3=Josh}{@S3s= }
+{@S4=Louis}{@S4s= }
+{@S5=Kenneth}{@S5s= }
+{@S6=Michael Shi}{@S6s= }
+{@S7=Zhé-ēn}{@S7s= }
+{@S8=Charles}{@S8s= }
+{@S9=Curry}{@S9s= }
+{@S10=Ryan}{@S10s= }
+{@S11=Ken}{@S11s= }
+{@S12=Ebrby (12)}{@S12s= }
+{@S13=Thor}{@S13s= }
+{@S14=Strong}{@S14s= }
+{@S15=Stanley}{@S15s= }
+{@S16=Bótíng}{@S16s= }
+{@S17=Gage}{@S17s= }
+{@S19=Emily}{@S19s=s}
+{@S20=Aurora}{@S20s=s}
+{@S21=Rita}{@S21s=s}
+{@S22=Doris}{@S22s=s}
+{@S23=Mia}{@S23s=s}
+{@S24=Gianna}{@S24s=s}
+{@S25=Zoe}{@S25s=s}
+{@S26=Patty}{@S26s=s}
+{@S27=Jojo}{@S27s=s}
+{@S28=Rachel}{@S28s=s}
+{@S28=Jenna}{@S28s=s}

@@ -1,0 +1,39 @@
+{if xday=Monday:
+{if milhour=10:{@Grade=5}{@Class=A}}
+{if milhour=11:{@Grade=5}{@Class=B}}
+{if milhour=13:{@Grade=5}{@Class=E}}
+{if milhour=15:{@Grade=4}{@Class=A}}
+}
+
+{if xday=Tuesday:
+{if milhour=9:{@Grade=6}{@Class=E}}
+{if milhour=10:{@Grade=4}{@Class=B}}
+{if milhour=13:{@Grade=4}{@Class=C}}
+{if milhour=14:{@Grade=6}{@Class=B}}
+{if milhour=15:{@Grade=6}{@Class=C}}
+}
+
+{if xday=Wednesday:
+{if milhour=9:{@Grade=4}{@Class=D}}
+{if milhour=10:{@Grade=5}{@Class=C}}
+{if milhour=11:{@Grade=5}{@Class=D}}
+}
+
+{if xday=Thursday:
+{if milhour=9:{@Grade=4}{@Class=E}}
+{if milhour=10:{@Grade=3}{@Class=D}}
+{if milhour=11:{@Grade=3}{@Class=B}}
+{if milhour=13:{@Grade=3}{@Class=A}}
+{if milhour=14:{@Grade=3}{@Class=E}}
+}
+
+{if xday=Friday:
+{if milhour=9:{@Grade=6}{@Class=D}}
+{if milhour=10:{@Grade=3}{@Class=C}}
+{if milhour=11:{@Grade=6}{@Class=A}}
+
+}
+
+{if xday=Saturday:
+
+}

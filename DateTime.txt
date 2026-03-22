@@ -1,0 +1,7 @@
+	set("date", new Date().toDateString());
+	set("year", new Date().getFullYear());
+	set("jmonth", new Date().getMonth());
+	set("datenum", new Date().getDate());
+	set("wkdynum", new Date().getDay());
+	set("milhour", new Date().getHours());
+	set("minutes", new Date().getMinutes());

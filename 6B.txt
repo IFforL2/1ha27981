@@ -1,0 +1,27 @@
+{@S1=Totti}{@S1s= }
+{@S2=Roy}{@S2s= }
+{@S3=Boss}{@S3s= }
+{@S4=Kai}{@S4s= }
+{@S5=Jay}{@S5s= }
+{@S6=Nick}{@S6s= }
+{@S7=Jim}{@S7s= }
+{@S8=Louis}{@S8s= }
+{@S9=Eason}{@S9s= }
+{@S10=Vic}{@S10s= }
+{@S11=Kaixiang}{@S11s= }
+{@S12=Buffett}{@S12s= }
+{@S13=Nigle}{@S13s= }
+{@S14=Ray}{@S14s= }
+{@S15=Tim}{@S15s= }
+{@S16=Dora Zhang}{@S16s=s}
+{@S17=Ingrid}{@S17s=s}
+{@S18=Kiki}{@S18s=s}
+{@S19=Lydia}{@S19s=s}
+{@S20=Sherry}{@S20s=s}
+{@S21=Zoe}{@S21s=s}
+{@S22=Dora Shi}{@S22s=s}
+{@S23=Gina}{@S23s=s}
+{@S24=Teresa}{@S24s=s}
+{@S25=Anna}{@S25s=s}
+{@S26=Verna}{@S26s=s}
+{@S27=Amber}{@S27s=s}
