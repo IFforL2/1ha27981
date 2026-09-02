@@ -24,3 +24,5 @@
 {@S25=Sophia}{@S25s=s}
 {@S26=Anna}{@S26s=s}
 {@S27=Judy}{@S27s=s}
+{@S28=Anyone}{@S28s=s}
+{@S29=Anyone}{@S29s=s}
