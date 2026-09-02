@@ -23,4 +23,7 @@
 {@S24=Luna}{@S24s=s}
 {@S25=Sofina}{@S25s=s}
 {@S26=Erica}{@S26s=s}
+{@S27=Anyone}{@S27s=s}
+{@S28=Anyone}{@S28s=s}
+{@S29=Anyone}{@S29s=s}
 {@S27=Ella}{@S28s=s}
