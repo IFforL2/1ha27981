@@ -25,3 +25,5 @@
 {@S25=Dora}{@S25s=s}
 {@S26=Prima}{@S26s=s}
 {@S27=Nina}{@S27s=s}
+{@S28=Anyone}{@S28s=s}
+{@S29=Anyone}{@S29s=s}
