@@ -1,28 +1,27 @@
-{@S1=Max}{@S1s= }
-{@S2=Evan}{@S2s= }
-{@S3=Josh}{@S3s= }
-{@S4=Louis}{@S4s= }
-{@S5=Kenneth}{@S5s= }
-{@S6=Michael Shi}{@S6s= }
-{@S7=Zhé-ēn}{@S7s= }
-{@S8=Charles}{@S8s= }
-{@S9=Curry}{@S9s= }
-{@S10=Ryan}{@S10s= }
-{@S11=Ken}{@S11s= }
-{@S12=Ebrby (12)}{@S12s= }
-{@S13=Thor}{@S13s= }
-{@S14=Strong}{@S14s= }
-{@S15=Stanley}{@S15s= }
-{@S16=Bótíng}{@S16s= }
-{@S17=Gage}{@S17s= }
-{@S19=Emily}{@S19s=s}
-{@S20=Aurora}{@S20s=s}
-{@S21=Rita}{@S21s=s}
-{@S22=Doris}{@S22s=s}
-{@S23=Mia}{@S23s=s}
-{@S24=Gianna}{@S24s=s}
-{@S25=Zoe}{@S25s=s}
-{@S26=Patty}{@S26s=s}
-{@S27=Jojo}{@S27s=s}
-{@S28=Rachel}{@S28s=s}
-{@S28=Jenna}{@S28s=s}
+{@S1=Xiàn Wéi}{@S1s= }
+{@S2=Raye}{@S2s= }
+{@S3=Eason}{@S3s= }
+{@S4=Wiliam}{@S4s= }
+{@S5=Rex}{@S5s= }
+{@S6=Allen}{@S6s= }
+{@S7=Willison}{@S7s= }
+{@S8=Kiwi}{@S8s= }
+{@S9=Willison}{@S9s= }
+{@S10=Hank}{@S10s= }
+{@S11=Yale}{@S11s= }
+{@S12=Xuān Zhú}{@S12s= }
+{@S13=Stephen}{@S13s= }
+{@S14=Katie}{@S14s=s}
+{@S15=Elsa}{@S15s=s}
+{@S16=Kristina}{@S16s=s}
+{@S17=Evelyn}{@S17s=s}
+{@S18=Emma}{@S18s=s}
+{@S19=Mina}{@S19s=s}
+{@S20=Lily}{@S20s=s}
+{@S21=Nikki}{@S21s=s}
+{@S22=Evan}{@S22s=s}
+{@S23=Vesper}{@S23s=s}
+{@S24=Shareen}{@S24s=s}
+{@S25=Wendy}{@S25s=s}
+{@S26=Bernice}{@S26s=s}
+{@S27=Liya}{@S27s=s}
