@@ -1,28 +1,29 @@
-{@S1=Pier}{@S1s= }
+{@S1=Ray}{@S1s= }
 {@S2=Ian}{@S2s= }
-{@S3=Callum}{@S3s= }
-{@S4=Ocean}{@S4s= }
-{@S5=Dinghai 5}{@S5s= }
-{@S6=Marcus}{@S6s= }
-{@S7=Eason}{@S7s= }
-{@S8=Caden}{@S8s= }
-{@S9=Paxton}{@S9s= }
-{@S10=Jeff}{@S10s= }
-{@S11=Jeff}{@S11s= }
-{@S12=Chris}{@S12s= }
-{@S13=Yuri}{@S13s=s}
-{@S14=Alpha}{@S14s=s}
-{@S15=Amy}{@S15s=s}
-{@S16=Ruby}{@S16s=s}
-{@S17=Yichen 17}{@S17s=s}
-{@S18=Momo}{@S18s=s}
-{@S19=Rainie}{@S19s=s}
-{@S20=Ariel}{@S20s=s}
-{@S21=Sharon}{@S21s=s}
-{@S22=Samantha}{@S22s=s}
-{@S23=Winnie}{@S23s=s}
-{@S24=Olivia}{@S24s=s}
-{@S25=Dora}{@S25s=s}
-{@S26=Prima}{@S26s=s}
-{@S27=Nina}{@S27s=s}
-
+{@S3=Chifo}{@S3s= }
+{@S4=Eric}{@S4s= }
+{@S5=Jayden}{@S5s= }
+{@S6=Jim}{@S6s= }
+{@S7=Chamberlain}{@S7s= }
+{@S8=Brian}{@S8s= }
+{@S9=Eason}{@S9s= }
+{@S10=Lucas}{@S10s= }
+{@S11=Anyone}{@S11s= }
+{@S12=Evan}{@S12s= }
+{@S13=Patrick}{@S13s= }
+{@S14=Horrod}{@S14s= }
+{@S15=Wilson}{@S15s= }
+{@S16=Casper}{@S16s= }
+{@S17=Phoebe}{@S17s=s}
+{@S18=Miffy}{@S18s=s}
+{@S19=Yun}{@S19s=s}
+{@S20=Alice}{@S20s=s}
+{@S21=Emma}{@S21s=s}
+{@S22=Emily}{@S22s=s}
+{@S23=Alisa}{@S23s=s}
+{@S24=Ginny}{@S24s=s}
+{@S25=Anne}{@S25s=s}
+{@S26=Patty}{@S26s=s}
+{@S27=Ella}{@S27s=s}
+{@S28=Sandra}{@S28s=s}
+{@S29=Anna}{@S29s=s}
