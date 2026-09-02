@@ -1,8 +1,9 @@
 {if xday=Monday:
-{if milhour=10:{@Grade=5}{@Class=A}}
-{if milhour=11:{@Grade=5}{@Class=B}}
-{if milhour=13:{@Grade=5}{@Class=E}}
-{if milhour=15:{@Grade=4}{@Class=A}}
+{if milhour=9:{@Grade=5}{@Class=A}}
+{if milhour=10:{@Grade=5}{@Class=B}}
+{if milhour=11:{@Grade=5}{@Class=E}}
+{if milhour=13:{@Grade=4}{@Class=A}}
+{if milhour=14:{@Grade=4}{@Class=A}}
 }
 
 {if xday=Tuesday:
