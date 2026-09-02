@@ -25,3 +25,5 @@
 {@S25=Wendy}{@S25s=s}
 {@S26=Bernice}{@S26s=s}
 {@S27=Liya}{@S27s=s}
+{@S28=Anyone}{@S28s=s}
+{@S29=Anyone}{@S29s=s}
