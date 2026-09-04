@@ -12,7 +12,7 @@
 {@S12=Benson}{@S12s= }
 {@S13=Anzo}{@S13s= }
 {@S14=Jiā Zhèng}{@S14s= }
-{@S15= Ivy}{@S15s= }
+{@S15= Ivy}{@S15s=s}
 {@S16=Jubi}{@S16s=s}
 {@S17=Zǐ Xīn}{@S17s=s}
 {@S18=Emma}{@S18s=s}
