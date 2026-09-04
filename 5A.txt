@@ -1,29 +1,29 @@
-{@S1=Ian}{@S1s= }
-{@S2=Edward}{@S2s= }
-{@S3=Shawn}{@S3s= }
-{@S4=Brian}{@S4s= }
-{@S5=Yǔēn}{@S5s= }
-{@S6=Batton}{@S6s= }
-{@S7=Matthew}{@S7s= }
-{@S8=Yìhé}{@S8s= }
-{@S9=Travis}{@S9s= }
-{@S10=Richard}{@S10s= }
-{@S11=Andre}{@S11s= }
-{@S12=Yǔhóng}{@S12s= }
-{@S13=Benjamin}{@S13s= }
-{@S14=Autou}{@S14s= }
-{@S15=Neo}{@S15s= }
+{@S1=Hugo}{@S1s= }
+{@S2=Ben}{@S2s= }
+{@S3=Ray}{@S3s= }
+{@S4=Edward}{@S4s= }
+{@S5=Eric}{@S5s= }
+{@S6=Yune}{@S6s= }
+{@S7=Hans}{@S7s= }
+{@S8=Eason}{@S8s= }
+{@S9=Lucas}{@S9s= }
+{@S10=Yoyo}{@S10s= }
+{@S11=Thomas}{@S11s= }
+{@S12=Patrick}{@S12s= }
+{@S13=Richard}{@S13s= }
+{@S14=Kris}{@S14s= }
+{@S15=Casper}{@S15s= }
 {@S16=Lilian}{@S16s=s}
-{@S17=Yuki}{@S17s=s}
-{@S18=Maxine}{@S18s=s}
-{@S19=Mia}{@S19s=s}
-{@S20=Chloe}{@S20s=s}
-{@S21=Zoe}{@S21s=s}
-{@S22=Bailey}{@S22s=s}
-{@S23=Liz}{@S23s=s}
-{@S24=Happy}{@S24s=s}
-{@S25=Emma}{@S25s=s}
+{@S17=Christine}{@S17s=s}
+{@S18=Yuki}{@S18s=s}
+{@S19=Lily}{@S19s=s}
+{@S20=Emma}{@S20s=s}
+{@S21=Sophia}{@S21s=s}
+{@S22=Happen}{@S22s=s}
+{@S23=Ella}{@S23s=s}
+{@S24=Anne}{@S24s=s}
+{@S25=Claire}{@S25s=s}
 {@S26=Aurora}{@S26s=s}
-{@S27=Eileen}{@S27s=s}
-{@S28=Nina}{@S28s=s}
+{@S27=Patty}{@S27s=s}
+{@S28=Sandra}{@S28s=s}
 {@S29=Anyone}{@S29s=s}
