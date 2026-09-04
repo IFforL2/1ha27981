@@ -26,4 +26,4 @@
 {@S26=Cindy}{@S26s=s}
 {@S27=Avery}{@S27s=s}
 {@S28=Avery}{@S28s=s}
-{@S29=Anyone}{@S28s=s}
+{@S29=Anyone}{@S29s=s}
