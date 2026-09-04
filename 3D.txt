@@ -1,27 +1,29 @@
-{@S1=Liàngxì}{@S1s= }
-{@S2=Max Ho}{@S2s= }
-{@S3=Ian}{@S3s= }
-{@S4=Misha}{@S4s= }
-{@S5=Eric}{@S5s= }
-{@S6=Max Huang}{@S6s= }
-{@S7=Charlie}{@S7s= }
-{@S8=Henry}{@S8s= }
-{@S9=Ray}{@S9s= }
-{@S10=Caleb}{@S10s= }
-{@S11=Uri}{@S11s= }
-{@S12=Zac}{@S12s= }
-{@S13=Gary}{@S13s= }
-{@S14=Huī Xiáng}{@S14s= }
-{@S15=Prima}{@S15s= }
-{@S16=Sharlene}{@S16s=s}
-{@S17=Jojo}{@S17s=s}
-{@S18=Gigi}{@S18s=s}
-{@S19=Cindy}{@S19s=s}
-{@S20=Jennifer}{@S20s=s}
-{@S21=Sophia}{@S21s=s}
-{@S22=Alicia}{@S22s=s}
-{@S24=Emilia}{@S24s=s}
-{@S25=Zoe}{@S25s=s}
-{@S26=Fifi}{@S26s=s}
-{@S27=Minnie}{@S27s=s}
-{@S28=Dora}{@S28s=s}
+{@S1=Shine}{@S1s= }
+{@S2=Leo}{@S2s= }
+{@S3=Ear}{@S3s= }
+{@S4=Sean}{@S4s= }
+{@S5=Chris}{@S5s= }
+{@S6=Ian}{@S6s= }
+{@S7=Eddie}{@S7s= }
+{@S8=Fú Lè}{@S8s= }
+{@S9=Ian}{@S9s= }
+{@S10=Terry}{@S10s= }
+{@S11=Qǐ Chéng}{@S11s= }
+{@S12=Zhèn Táo}{@S12s= }
+{@S13=Samuel}{@S13s= }
+{@S14=Raymond}{@S14s= }
+{@S15=Johnson}{@S15s= }
+{@S16=Jan}{@S16s=s}
+{@S17=Joy}{@S17s=s}
+{@S18=Claire}{@S18s=s}
+{@S19=Yǐn Zhēn}{@S19s=s}
+{@S20=Ariel}{@S20s=s}
+{@S21=Elsa}{@S21s=s}
+{@S22=Joy}{@S22s=s}
+{@S23=Elena}{@S23s=s}
+{@S24=Mina}{@S24s=s}
+{@S25=Betty}{@S25s=s}
+{@S26=Cindy}{@S26s=s}
+{@S27=Avery}{@S27s=s}
+{@S28=Avery}{@S28s=s}
+{@S29=Anyone}{@S28s=s}
