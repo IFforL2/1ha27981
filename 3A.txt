@@ -19,7 +19,7 @@
 {@S19=Cindy}{@S19s=s}
 {@S20=Zora}{@S20s=s}
 {@S21=Kara}{@S21s=s}
-{@S22=Clair}{@S22s=s}
+{@S22=Claire}{@S22s=s}
 {@S23=Kersina}{@S23s=s}
 {@S24=Letitia}{@S24s=s}
 {@S25=Jaina}{@S25s=s}
