@@ -13,7 +13,7 @@
 {@S13=Barry}{@S13s= }
 {@S14=Benjamin}{@S14s= }
 {@S15=Leo}{@S15s= }
-{@S16=Alice}{@S16s= }
+{@S16=Alice}{@S16s=s}
 {@S17=Abby}{@S17s=s}
 {@S18=Jenny}{@S18s=s}
 {@S19=Ginny}{@S19s=s}
