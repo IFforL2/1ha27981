@@ -1,29 +1,29 @@
-{@S1=Ryan}{@S1s= }
-{@S2=Feynman}{@S2s= }
-{@S3=George}{@S3s= }
-{@S4=Eli}{@S4s= }
-{@S5=Maison}{@S5s= }
-{@S6=Will}{@S6s= }
-{@S7=Rogan}{@S7s= }
-{@S8=Leo}{@S8s= }
-{@S9=Patrick}{@S9s= }
-{@S10=Rody}{@S10s= }
-{@S11=Kris}{@S11s= }
-{@S12=Thomas}{@S12s= }
+{@S1=Yuki}{@S1s= }
+{@S2=Kimi}{@S2s= }
+{@S3=Tom}{@S3s= }
+{@S4=Ilyan}{@S4s= }
+{@S5=Chamberlain}{@S5s= }
+{@S6=Maison}{@S6s= }
+{@S7=Patrick}{@S7s= }
+{@S8=Wilson}{@S8s= }
+{@S9=Rody}{@S9s= }
+{@S10=Leo}{@S10s= }
+{@S11=Yuhong}{@S11s= }
+{@S12=Auston}{@S12s= }
 {@S13=Ryan}{@S13s= }
-{@S14=Mike}{@S14s= }
-{@S15=Jasper}{@S15s= }
-{@S16=Margaux}{@S16s=s}
-{@S17=Harper}{@S17s=s}
-{@S18=Jenny}{@S18s=s}
-{@S19=Vera}{@S19s=s}
-{@S20=Ella}{@S20s=s}
-{@S21=Catherine}{@S21s=s}
-{@S22=Even}{@S22s=s}
-{@S23=Sharon}{@S23s=s}
-{@S24=Lily}{@S24s=s}
-{@S25=Winnie}{@S25s=s}
-{@S26=Cindy}{@S26s=s}
-{@S27=Nika}{@S27s=s}
-{@S28=Stella}{@S28s=s}
-{@S29=Charlotte}{@S29s=s}
+{@S14=Howard}{@S14s= }
+{@S15=Ingrid}{@S15s=s}
+{@S16=Yichen}{@S16s=s}
+{@S17=Yun}{@S17s=s}
+{@S18=Vera}{@S18s=s}
+{@S19=Joyce}{@S19s=s}
+{@S20=Chloe}{@S20s=s}
+{@S21=Emily}{@S21s=s}
+{@S22=Cindy}{@S22s=s}
+{@S23=Emily}{@S23s=s}
+{@S24=Bailey}{@S24s=s}
+{@S25=Lilian}{@S25s=s}
+{@S26=Liz}{@S26s=s}
+{@S27=Winnie}{@S27s=s}
+{@S28=Moi}{@S28s=s}
+{@S29=Anyone}{@S29s=s}
