@@ -4,17 +4,17 @@
 {@S4=Ryan}{@S4s= }
 {@S5=Ryan}{@S5s= }
 {@S6=Charlie}{@S6s= }
-{@S7=Yàn Chén}{@S7s= }
+{@S7=Tim}{@S7s= }
 {@S8=Benny}{@S8s= }
 {@S9=Anan}{@S9s= }
-{@S10=Shèng Hóng}{@S10s= }
-{@S11=Xuán Yǔ}{@S11s= }
+{@S10=Owen}{@S10s= }
+{@S11=Leo}{@S11s= }
 {@S12=Benson}{@S12s= }
 {@S13=Anzo}{@S13s= }
-{@S14=Jiā Zhèng}{@S14s= }
+{@S14=Pollux}{@S14s= }
 {@S15= Ivy}{@S15s=s}
 {@S16=Jubi}{@S16s=s}
-{@S17=Zǐ Xīn}{@S17s=s}
+{@S17=Mia}{@S17s=s}
 {@S18=Emma}{@S18s=s}
 {@S19=Isla}{@S19s=s}
 {@S20=Veegee}{@S20s=s}
